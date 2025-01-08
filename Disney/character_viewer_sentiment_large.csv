@@ -1,0 +1,501 @@
+Character Name,Movie Title,Role,Viewer Sentiment,Screen Time (Minutes),Scene Appearances
+Luke Skywalker,Star Wars,Protagonist,11,76,9
+Darth Vader,Star Wars,Antagonist,56,91,5
+Leia Organa,Star Wars,Supporting,58,93,20
+Han Solo,Star Wars,Protagonist,34,32,15
+Yoda,Star Wars,Mentor,81,21,5
+Obi-Wan Kenobi,Star Wars,Mentor,12,41,18
+Palpatine,Star Wars,Antagonist,2,87,24
+Chewbacca,Star Wars,Supporting,13,100,7
+R2-D2,Star Wars,Comic Relief,21,118,29
+C-3PO,Star Wars,Comic Relief,52,34,23
+Kylo Ren,Star Wars,Antagonist,56,31,18
+Rey,Star Wars,Protagonist,62,69,28
+Simba,The Lion King,Protagonist,51,26,25
+Scar,The Lion King,Antagonist,55,90,29
+Mufasa,The Lion King,Mentor,37,105,6
+Ariel,The Little Mermaid,Protagonist,48,38,22
+Ursula,The Little Mermaid,Antagonist,97,97,23
+Elsa,Frozen,Protagonist,84,111,5
+Anna,Frozen,Protagonist,8,107,11
+Olaf,Frozen,Comic Relief,59,21,13
+Kristoff,Frozen,Supporting,68,50,27
+Moana,Moana,Protagonist,66,71,27
+Maui,Moana,Supporting,67,12,15
+Tamatoa,Moana,Antagonist,48,26,6
+DynamicCharacter_1,The Lion King,Comic Relief,34,86,8
+DynamicCharacter_2,The Lion King,Antagonist,26,12,13
+DynamicCharacter_3,Beauty and the Beast,Mentor,53,109,17
+DynamicCharacter_4,Beauty and the Beast,Protagonist,54,23,16
+DynamicCharacter_5,The Lion King,Supporting,40,83,5
+DynamicCharacter_6,Star Wars,Antagonist,14,46,17
+DynamicCharacter_7,The Lion King,Mentor,94,13,17
+DynamicCharacter_8,Frozen,Protagonist,23,29,26
+DynamicCharacter_9,Star Wars,Protagonist,6,62,19
+DynamicCharacter_10,The Lion King,Protagonist,10,98,19
+DynamicCharacter_11,Star Wars,Supporting,44,29,18
+DynamicCharacter_12,Moana,Comic Relief,41,118,23
+DynamicCharacter_13,The Lion King,Comic Relief,100,99,28
+DynamicCharacter_14,Moana,Protagonist,38,88,20
+DynamicCharacter_15,Beauty and the Beast,Protagonist,70,31,29
+DynamicCharacter_16,Star Wars,Supporting,74,36,11
+DynamicCharacter_17,Star Wars,Antagonist,82,26,13
+DynamicCharacter_18,Moana,Supporting,97,43,9
+DynamicCharacter_19,Frozen,Protagonist,45,114,8
+DynamicCharacter_20,Beauty and the Beast,Mentor,30,32,7
+DynamicCharacter_21,Beauty and the Beast,Supporting,88,31,9
+DynamicCharacter_22,Beauty and the Beast,Mentor,21,93,6
+DynamicCharacter_23,Beauty and the Beast,Mentor,15,37,28
+DynamicCharacter_24,Star Wars,Mentor,94,20,29
+DynamicCharacter_25,Frozen,Mentor,26,82,7
+DynamicCharacter_26,Frozen,Protagonist,42,52,10
+DynamicCharacter_27,Beauty and the Beast,Protagonist,91,53,8
+DynamicCharacter_28,The Lion King,Antagonist,12,105,14
+DynamicCharacter_29,Moana,Antagonist,12,82,9
+DynamicCharacter_30,Frozen,Antagonist,35,50,11
+DynamicCharacter_31,Frozen,Mentor,49,29,13
+DynamicCharacter_32,Frozen,Antagonist,43,91,19
+DynamicCharacter_33,The Lion King,Antagonist,51,58,25
+DynamicCharacter_34,Beauty and the Beast,Mentor,76,22,27
+DynamicCharacter_35,Frozen,Protagonist,42,68,25
+DynamicCharacter_36,Beauty and the Beast,Mentor,7,34,13
+DynamicCharacter_37,Moana,Protagonist,59,51,5
+DynamicCharacter_38,Frozen,Protagonist,74,109,24
+DynamicCharacter_39,Frozen,Mentor,26,64,19
+DynamicCharacter_40,Beauty and the Beast,Supporting,79,54,24
+DynamicCharacter_41,Beauty and the Beast,Antagonist,42,96,29
+DynamicCharacter_42,Moana,Mentor,1,92,16
+DynamicCharacter_43,Moana,Protagonist,39,37,23
+DynamicCharacter_44,Beauty and the Beast,Supporting,82,17,20
+DynamicCharacter_45,The Lion King,Supporting,42,111,20
+DynamicCharacter_46,Beauty and the Beast,Antagonist,70,20,27
+DynamicCharacter_47,Star Wars,Mentor,23,55,6
+DynamicCharacter_48,Star Wars,Antagonist,2,87,19
+DynamicCharacter_49,Moana,Protagonist,71,90,20
+DynamicCharacter_50,Beauty and the Beast,Supporting,14,117,25
+DynamicCharacter_51,The Lion King,Supporting,73,65,8
+DynamicCharacter_52,Moana,Mentor,49,39,15
+DynamicCharacter_53,The Lion King,Antagonist,98,46,9
+DynamicCharacter_54,Moana,Protagonist,22,26,7
+DynamicCharacter_55,Beauty and the Beast,Comic Relief,39,38,20
+DynamicCharacter_56,Star Wars,Comic Relief,74,112,21
+DynamicCharacter_57,The Lion King,Comic Relief,95,29,5
+DynamicCharacter_58,Frozen,Protagonist,94,29,10
+DynamicCharacter_59,The Lion King,Comic Relief,94,24,29
+DynamicCharacter_60,Beauty and the Beast,Antagonist,25,71,9
+DynamicCharacter_61,Star Wars,Comic Relief,82,60,9
+DynamicCharacter_62,Star Wars,Mentor,8,12,25
+DynamicCharacter_63,Star Wars,Mentor,34,117,28
+DynamicCharacter_64,Beauty and the Beast,Comic Relief,87,89,10
+DynamicCharacter_65,Star Wars,Antagonist,22,90,9
+DynamicCharacter_66,The Lion King,Supporting,94,52,24
+DynamicCharacter_67,The Lion King,Protagonist,82,70,22
+DynamicCharacter_68,Frozen,Supporting,75,36,14
+DynamicCharacter_69,Star Wars,Mentor,72,80,9
+DynamicCharacter_70,The Lion King,Supporting,25,93,16
+DynamicCharacter_71,Star Wars,Comic Relief,76,31,14
+DynamicCharacter_72,Moana,Antagonist,61,51,5
+DynamicCharacter_73,Star Wars,Protagonist,33,99,13
+DynamicCharacter_74,Moana,Protagonist,68,25,9
+DynamicCharacter_75,The Lion King,Comic Relief,44,48,13
+DynamicCharacter_76,Moana,Mentor,77,63,25
+DynamicCharacter_77,Frozen,Supporting,33,55,26
+DynamicCharacter_78,Moana,Mentor,82,100,20
+DynamicCharacter_79,The Lion King,Comic Relief,63,17,22
+DynamicCharacter_80,Beauty and the Beast,Antagonist,19,85,14
+DynamicCharacter_81,Star Wars,Comic Relief,13,103,22
+DynamicCharacter_82,Frozen,Comic Relief,42,32,7
+DynamicCharacter_83,The Lion King,Supporting,54,23,18
+DynamicCharacter_84,Beauty and the Beast,Comic Relief,14,88,17
+DynamicCharacter_85,Frozen,Comic Relief,6,53,18
+DynamicCharacter_86,Beauty and the Beast,Antagonist,58,97,29
+DynamicCharacter_87,The Lion King,Protagonist,54,45,20
+DynamicCharacter_88,The Lion King,Protagonist,67,84,22
+DynamicCharacter_89,Star Wars,Comic Relief,19,115,28
+DynamicCharacter_90,Frozen,Antagonist,91,33,18
+DynamicCharacter_91,The Lion King,Mentor,99,27,29
+DynamicCharacter_92,Beauty and the Beast,Supporting,30,57,19
+DynamicCharacter_93,Moana,Supporting,93,46,28
+DynamicCharacter_94,Star Wars,Antagonist,36,33,20
+DynamicCharacter_95,The Lion King,Antagonist,4,53,16
+DynamicCharacter_96,Star Wars,Antagonist,4,78,26
+DynamicCharacter_97,Beauty and the Beast,Antagonist,75,64,24
+DynamicCharacter_98,Star Wars,Supporting,79,76,29
+DynamicCharacter_99,Moana,Comic Relief,32,105,21
+DynamicCharacter_100,The Lion King,Protagonist,40,17,17
+DynamicCharacter_101,Moana,Comic Relief,38,106,14
+DynamicCharacter_102,The Lion King,Mentor,49,40,6
+DynamicCharacter_103,Moana,Mentor,74,24,24
+DynamicCharacter_104,Star Wars,Mentor,87,47,6
+DynamicCharacter_105,Moana,Antagonist,12,83,24
+DynamicCharacter_106,Star Wars,Protagonist,94,65,16
+DynamicCharacter_107,Star Wars,Comic Relief,47,107,16
+DynamicCharacter_108,Frozen,Comic Relief,96,30,26
+DynamicCharacter_109,Moana,Mentor,2,56,28
+DynamicCharacter_110,Moana,Comic Relief,98,100,10
+DynamicCharacter_111,The Lion King,Comic Relief,40,95,22
+DynamicCharacter_112,Frozen,Protagonist,30,80,18
+DynamicCharacter_113,Beauty and the Beast,Protagonist,32,10,7
+DynamicCharacter_114,Moana,Antagonist,38,44,22
+DynamicCharacter_115,Frozen,Comic Relief,15,115,25
+DynamicCharacter_116,Moana,Supporting,1,40,22
+DynamicCharacter_117,Star Wars,Mentor,22,22,28
+DynamicCharacter_118,Frozen,Protagonist,9,48,7
+DynamicCharacter_119,Star Wars,Mentor,64,80,29
+DynamicCharacter_120,Star Wars,Supporting,46,46,16
+DynamicCharacter_121,Frozen,Protagonist,17,108,21
+DynamicCharacter_122,Beauty and the Beast,Mentor,34,38,7
+DynamicCharacter_123,Star Wars,Antagonist,48,21,12
+DynamicCharacter_124,The Lion King,Mentor,60,49,14
+DynamicCharacter_125,Star Wars,Mentor,79,79,21
+DynamicCharacter_126,Beauty and the Beast,Protagonist,90,90,23
+DynamicCharacter_127,Star Wars,Antagonist,43,29,28
+DynamicCharacter_128,The Lion King,Comic Relief,52,20,10
+DynamicCharacter_129,Star Wars,Protagonist,14,51,10
+DynamicCharacter_130,The Lion King,Comic Relief,3,60,17
+DynamicCharacter_131,Star Wars,Supporting,80,21,18
+DynamicCharacter_132,Moana,Mentor,38,18,27
+DynamicCharacter_133,Beauty and the Beast,Antagonist,70,69,20
+DynamicCharacter_134,Moana,Comic Relief,78,102,26
+DynamicCharacter_135,Frozen,Antagonist,64,67,25
+DynamicCharacter_136,Frozen,Supporting,84,104,30
+DynamicCharacter_137,Star Wars,Protagonist,45,53,27
+DynamicCharacter_138,The Lion King,Antagonist,13,59,28
+DynamicCharacter_139,Moana,Protagonist,7,37,11
+DynamicCharacter_140,The Lion King,Mentor,3,82,30
+DynamicCharacter_141,Beauty and the Beast,Antagonist,34,102,18
+DynamicCharacter_142,Frozen,Antagonist,6,11,29
+DynamicCharacter_143,Star Wars,Antagonist,48,70,23
+DynamicCharacter_144,Moana,Protagonist,98,120,16
+DynamicCharacter_145,Beauty and the Beast,Supporting,45,27,10
+DynamicCharacter_146,Frozen,Antagonist,12,112,19
+DynamicCharacter_147,Star Wars,Mentor,14,114,10
+DynamicCharacter_148,Frozen,Mentor,15,102,30
+DynamicCharacter_149,Frozen,Protagonist,88,37,22
+DynamicCharacter_150,Beauty and the Beast,Comic Relief,43,78,8
+DynamicCharacter_151,Star Wars,Mentor,97,62,7
+DynamicCharacter_152,Moana,Antagonist,68,67,6
+DynamicCharacter_153,The Lion King,Supporting,32,66,14
+DynamicCharacter_154,Beauty and the Beast,Antagonist,59,120,5
+DynamicCharacter_155,The Lion King,Antagonist,75,76,9
+DynamicCharacter_156,Beauty and the Beast,Antagonist,100,39,18
+DynamicCharacter_157,The Lion King,Mentor,68,19,12
+DynamicCharacter_158,Beauty and the Beast,Supporting,57,56,30
+DynamicCharacter_159,Beauty and the Beast,Protagonist,94,62,17
+DynamicCharacter_160,Star Wars,Protagonist,32,83,16
+DynamicCharacter_161,Star Wars,Comic Relief,71,22,13
+DynamicCharacter_162,The Lion King,Protagonist,33,38,30
+DynamicCharacter_163,The Lion King,Supporting,35,24,14
+DynamicCharacter_164,Beauty and the Beast,Protagonist,2,71,23
+DynamicCharacter_165,The Lion King,Mentor,14,54,15
+DynamicCharacter_166,Beauty and the Beast,Antagonist,81,96,27
+DynamicCharacter_167,Star Wars,Comic Relief,90,35,28
+DynamicCharacter_168,Star Wars,Supporting,51,37,21
+DynamicCharacter_169,Frozen,Protagonist,85,110,26
+DynamicCharacter_170,Moana,Antagonist,4,27,5
+DynamicCharacter_171,Moana,Comic Relief,74,117,22
+DynamicCharacter_172,The Lion King,Comic Relief,48,32,22
+DynamicCharacter_173,Star Wars,Supporting,8,85,19
+DynamicCharacter_174,Star Wars,Mentor,63,102,15
+DynamicCharacter_175,Moana,Comic Relief,11,61,15
+DynamicCharacter_176,Beauty and the Beast,Mentor,4,63,29
+DynamicCharacter_177,Beauty and the Beast,Comic Relief,81,16,26
+DynamicCharacter_178,Star Wars,Protagonist,35,49,27
+DynamicCharacter_179,Frozen,Mentor,39,17,6
+DynamicCharacter_180,Star Wars,Mentor,30,46,11
+DynamicCharacter_181,The Lion King,Comic Relief,60,50,17
+DynamicCharacter_182,Frozen,Protagonist,3,50,21
+DynamicCharacter_183,Frozen,Protagonist,22,70,5
+DynamicCharacter_184,The Lion King,Antagonist,38,64,30
+DynamicCharacter_185,Beauty and the Beast,Supporting,33,16,29
+DynamicCharacter_186,Frozen,Comic Relief,57,93,8
+DynamicCharacter_187,Beauty and the Beast,Comic Relief,99,51,30
+DynamicCharacter_188,Beauty and the Beast,Supporting,78,40,19
+DynamicCharacter_189,Moana,Mentor,75,106,5
+DynamicCharacter_190,Frozen,Antagonist,42,40,9
+DynamicCharacter_191,Frozen,Mentor,47,52,11
+DynamicCharacter_192,Moana,Antagonist,16,51,28
+DynamicCharacter_193,Beauty and the Beast,Mentor,65,17,15
+DynamicCharacter_194,Beauty and the Beast,Mentor,48,11,13
+DynamicCharacter_195,The Lion King,Mentor,52,57,17
+DynamicCharacter_196,Moana,Supporting,17,107,19
+DynamicCharacter_197,Moana,Supporting,15,45,18
+DynamicCharacter_198,The Lion King,Supporting,70,74,27
+DynamicCharacter_199,Moana,Mentor,67,113,11
+DynamicCharacter_200,Beauty and the Beast,Antagonist,31,38,26
+DynamicCharacter_201,Beauty and the Beast,Comic Relief,56,113,15
+DynamicCharacter_202,Frozen,Protagonist,73,76,22
+DynamicCharacter_203,The Lion King,Protagonist,88,50,17
+DynamicCharacter_204,Beauty and the Beast,Comic Relief,33,64,16
+DynamicCharacter_205,Moana,Protagonist,16,79,19
+DynamicCharacter_206,Beauty and the Beast,Mentor,55,116,8
+DynamicCharacter_207,Beauty and the Beast,Protagonist,53,108,22
+DynamicCharacter_208,Moana,Supporting,55,73,11
+DynamicCharacter_209,The Lion King,Antagonist,49,103,26
+DynamicCharacter_210,Star Wars,Protagonist,87,15,19
+DynamicCharacter_211,Beauty and the Beast,Supporting,89,69,22
+DynamicCharacter_212,Star Wars,Supporting,31,67,6
+DynamicCharacter_213,Beauty and the Beast,Comic Relief,81,59,14
+DynamicCharacter_214,Frozen,Antagonist,100,50,23
+DynamicCharacter_215,Star Wars,Supporting,19,28,14
+DynamicCharacter_216,Moana,Antagonist,81,109,7
+DynamicCharacter_217,The Lion King,Protagonist,55,40,24
+DynamicCharacter_218,The Lion King,Protagonist,69,44,6
+DynamicCharacter_219,The Lion King,Comic Relief,74,92,12
+DynamicCharacter_220,The Lion King,Mentor,4,72,21
+DynamicCharacter_221,Frozen,Comic Relief,88,55,16
+DynamicCharacter_222,Beauty and the Beast,Antagonist,42,87,14
+DynamicCharacter_223,The Lion King,Comic Relief,53,88,7
+DynamicCharacter_224,Moana,Supporting,72,102,5
+DynamicCharacter_225,Frozen,Mentor,70,90,30
+DynamicCharacter_226,Beauty and the Beast,Protagonist,35,45,5
+DynamicCharacter_227,Frozen,Supporting,41,30,12
+DynamicCharacter_228,Frozen,Mentor,3,23,14
+DynamicCharacter_229,The Lion King,Supporting,17,57,12
+DynamicCharacter_230,The Lion King,Protagonist,53,82,9
+DynamicCharacter_231,Moana,Supporting,18,47,25
+DynamicCharacter_232,The Lion King,Supporting,89,110,6
+DynamicCharacter_233,The Lion King,Protagonist,15,95,10
+DynamicCharacter_234,Beauty and the Beast,Supporting,2,15,16
+DynamicCharacter_235,Star Wars,Supporting,22,31,23
+DynamicCharacter_236,Moana,Comic Relief,26,82,5
+DynamicCharacter_237,Beauty and the Beast,Antagonist,21,53,9
+DynamicCharacter_238,Star Wars,Protagonist,90,106,17
+DynamicCharacter_239,Beauty and the Beast,Protagonist,4,46,27
+DynamicCharacter_240,Moana,Supporting,43,62,26
+DynamicCharacter_241,Star Wars,Protagonist,29,77,23
+DynamicCharacter_242,Star Wars,Mentor,64,65,27
+DynamicCharacter_243,Beauty and the Beast,Mentor,67,44,15
+DynamicCharacter_244,Frozen,Antagonist,4,34,28
+DynamicCharacter_245,Moana,Supporting,46,16,28
+DynamicCharacter_246,Moana,Antagonist,4,117,30
+DynamicCharacter_247,The Lion King,Supporting,70,97,27
+DynamicCharacter_248,Moana,Protagonist,60,120,10
+DynamicCharacter_249,Frozen,Comic Relief,15,26,26
+DynamicCharacter_250,Moana,Protagonist,95,108,26
+DynamicCharacter_251,Frozen,Mentor,23,97,17
+DynamicCharacter_252,Star Wars,Supporting,11,37,12
+DynamicCharacter_253,Moana,Comic Relief,16,41,28
+DynamicCharacter_254,Moana,Comic Relief,26,33,23
+DynamicCharacter_255,Moana,Supporting,94,78,26
+DynamicCharacter_256,The Lion King,Comic Relief,73,117,19
+DynamicCharacter_257,Beauty and the Beast,Antagonist,88,46,27
+DynamicCharacter_258,Moana,Mentor,48,41,6
+DynamicCharacter_259,The Lion King,Supporting,18,115,19
+DynamicCharacter_260,Star Wars,Supporting,49,116,25
+DynamicCharacter_261,Beauty and the Beast,Antagonist,92,37,14
+DynamicCharacter_262,Frozen,Protagonist,43,27,5
+DynamicCharacter_263,Frozen,Supporting,14,34,11
+DynamicCharacter_264,Star Wars,Antagonist,67,104,13
+DynamicCharacter_265,Moana,Mentor,14,15,23
+DynamicCharacter_266,Moana,Protagonist,26,58,21
+DynamicCharacter_267,Moana,Mentor,11,82,18
+DynamicCharacter_268,Star Wars,Antagonist,71,100,23
+DynamicCharacter_269,Beauty and the Beast,Supporting,78,22,10
+DynamicCharacter_270,Beauty and the Beast,Antagonist,15,41,11
+DynamicCharacter_271,The Lion King,Supporting,18,67,24
+DynamicCharacter_272,Frozen,Supporting,10,119,29
+DynamicCharacter_273,Beauty and the Beast,Protagonist,87,76,17
+DynamicCharacter_274,Beauty and the Beast,Mentor,2,110,6
+DynamicCharacter_275,The Lion King,Supporting,78,81,6
+DynamicCharacter_276,Moana,Supporting,45,36,25
+DynamicCharacter_277,Beauty and the Beast,Comic Relief,10,85,15
+DynamicCharacter_278,Moana,Protagonist,2,34,16
+DynamicCharacter_279,Frozen,Supporting,37,24,23
+DynamicCharacter_280,Beauty and the Beast,Protagonist,93,64,7
+DynamicCharacter_281,Star Wars,Comic Relief,92,20,15
+DynamicCharacter_282,Moana,Comic Relief,13,62,22
+DynamicCharacter_283,The Lion King,Mentor,63,117,25
+DynamicCharacter_284,Frozen,Supporting,37,105,9
+DynamicCharacter_285,Moana,Supporting,25,97,12
+DynamicCharacter_286,Beauty and the Beast,Comic Relief,73,26,7
+DynamicCharacter_287,The Lion King,Supporting,44,21,29
+DynamicCharacter_288,Moana,Antagonist,59,91,25
+DynamicCharacter_289,Frozen,Supporting,22,115,29
+DynamicCharacter_290,Star Wars,Antagonist,66,29,13
+DynamicCharacter_291,Star Wars,Protagonist,45,70,29
+DynamicCharacter_292,Frozen,Supporting,53,78,23
+DynamicCharacter_293,Frozen,Supporting,93,98,22
+DynamicCharacter_294,The Lion King,Supporting,9,35,11
+DynamicCharacter_295,Frozen,Protagonist,84,108,28
+DynamicCharacter_296,Beauty and the Beast,Supporting,59,32,18
+DynamicCharacter_297,Star Wars,Comic Relief,64,54,28
+DynamicCharacter_298,Beauty and the Beast,Protagonist,65,97,27
+DynamicCharacter_299,Moana,Antagonist,80,71,24
+DynamicCharacter_300,Frozen,Antagonist,24,27,6
+DynamicCharacter_301,The Lion King,Supporting,17,74,27
+DynamicCharacter_302,Moana,Antagonist,93,97,16
+DynamicCharacter_303,Frozen,Comic Relief,34,106,30
+DynamicCharacter_304,Beauty and the Beast,Comic Relief,17,28,30
+DynamicCharacter_305,Frozen,Mentor,38,87,17
+DynamicCharacter_306,The Lion King,Mentor,4,73,18
+DynamicCharacter_307,Beauty and the Beast,Protagonist,90,106,11
+DynamicCharacter_308,The Lion King,Comic Relief,25,84,25
+DynamicCharacter_309,Beauty and the Beast,Comic Relief,69,75,8
+DynamicCharacter_310,Beauty and the Beast,Comic Relief,45,94,6
+DynamicCharacter_311,The Lion King,Antagonist,23,74,19
+DynamicCharacter_312,Frozen,Supporting,81,43,16
+DynamicCharacter_313,The Lion King,Comic Relief,54,48,22
+DynamicCharacter_314,Moana,Comic Relief,91,71,13
+DynamicCharacter_315,Frozen,Protagonist,4,76,5
+DynamicCharacter_316,Beauty and the Beast,Antagonist,16,89,7
+DynamicCharacter_317,Star Wars,Supporting,14,62,16
+DynamicCharacter_318,Frozen,Supporting,8,49,5
+DynamicCharacter_319,Moana,Mentor,41,92,14
+DynamicCharacter_320,Frozen,Mentor,30,74,9
+DynamicCharacter_321,Beauty and the Beast,Supporting,51,73,15
+DynamicCharacter_322,The Lion King,Mentor,42,66,14
+DynamicCharacter_323,Star Wars,Mentor,1,94,7
+DynamicCharacter_324,Star Wars,Mentor,28,114,20
+DynamicCharacter_325,The Lion King,Protagonist,14,107,25
+DynamicCharacter_326,Star Wars,Protagonist,49,24,24
+DynamicCharacter_327,Beauty and the Beast,Comic Relief,99,118,6
+DynamicCharacter_328,Frozen,Supporting,56,17,26
+DynamicCharacter_329,The Lion King,Mentor,5,52,14
+DynamicCharacter_330,Beauty and the Beast,Mentor,43,82,29
+DynamicCharacter_331,The Lion King,Antagonist,12,117,14
+DynamicCharacter_332,Beauty and the Beast,Comic Relief,12,108,24
+DynamicCharacter_333,The Lion King,Protagonist,33,45,11
+DynamicCharacter_334,Frozen,Supporting,23,47,11
+DynamicCharacter_335,Frozen,Comic Relief,14,89,13
+DynamicCharacter_336,Star Wars,Antagonist,65,56,7
+DynamicCharacter_337,Star Wars,Antagonist,16,26,16
+DynamicCharacter_338,Frozen,Antagonist,65,12,20
+DynamicCharacter_339,Moana,Protagonist,2,53,18
+DynamicCharacter_340,The Lion King,Mentor,99,120,5
+DynamicCharacter_341,The Lion King,Mentor,75,105,15
+DynamicCharacter_342,Beauty and the Beast,Supporting,39,53,7
+DynamicCharacter_343,Beauty and the Beast,Protagonist,76,99,26
+DynamicCharacter_344,Moana,Mentor,44,116,12
+DynamicCharacter_345,Star Wars,Antagonist,96,45,8
+DynamicCharacter_346,Frozen,Supporting,6,11,22
+DynamicCharacter_347,The Lion King,Supporting,97,60,12
+DynamicCharacter_348,Beauty and the Beast,Supporting,65,91,24
+DynamicCharacter_349,The Lion King,Antagonist,61,118,7
+DynamicCharacter_350,Moana,Antagonist,15,42,9
+DynamicCharacter_351,Moana,Antagonist,59,56,21
+DynamicCharacter_352,Frozen,Mentor,24,105,26
+DynamicCharacter_353,Beauty and the Beast,Comic Relief,13,75,22
+DynamicCharacter_354,Moana,Comic Relief,63,79,22
+DynamicCharacter_355,Beauty and the Beast,Mentor,34,118,5
+DynamicCharacter_356,The Lion King,Antagonist,79,22,14
+DynamicCharacter_357,The Lion King,Antagonist,64,66,21
+DynamicCharacter_358,The Lion King,Supporting,6,111,22
+DynamicCharacter_359,Beauty and the Beast,Mentor,53,26,20
+DynamicCharacter_360,Frozen,Mentor,1,47,29
+DynamicCharacter_361,Beauty and the Beast,Mentor,14,112,11
+DynamicCharacter_362,Moana,Protagonist,36,82,18
+DynamicCharacter_363,Beauty and the Beast,Antagonist,98,13,17
+DynamicCharacter_364,Star Wars,Protagonist,64,26,9
+DynamicCharacter_365,Frozen,Antagonist,20,51,11
+DynamicCharacter_366,Moana,Antagonist,48,20,13
+DynamicCharacter_367,Star Wars,Protagonist,6,102,9
+DynamicCharacter_368,Beauty and the Beast,Mentor,84,90,11
+DynamicCharacter_369,The Lion King,Comic Relief,68,70,23
+DynamicCharacter_370,Frozen,Antagonist,1,57,6
+DynamicCharacter_371,Star Wars,Comic Relief,87,32,16
+DynamicCharacter_372,Star Wars,Mentor,61,24,9
+DynamicCharacter_373,Frozen,Supporting,39,46,26
+DynamicCharacter_374,Frozen,Antagonist,18,112,11
+DynamicCharacter_375,The Lion King,Comic Relief,65,45,17
+DynamicCharacter_376,Moana,Comic Relief,55,91,17
+DynamicCharacter_377,Star Wars,Mentor,72,45,19
+DynamicCharacter_378,Star Wars,Mentor,8,50,14
+DynamicCharacter_379,The Lion King,Comic Relief,23,98,10
+DynamicCharacter_380,Star Wars,Protagonist,97,45,15
+DynamicCharacter_381,Star Wars,Comic Relief,55,22,22
+DynamicCharacter_382,Star Wars,Protagonist,16,18,18
+DynamicCharacter_383,Star Wars,Mentor,50,113,17
+DynamicCharacter_384,Beauty and the Beast,Comic Relief,71,44,5
+DynamicCharacter_385,Frozen,Mentor,35,103,5
+DynamicCharacter_386,Frozen,Comic Relief,52,19,15
+DynamicCharacter_387,Frozen,Antagonist,79,16,8
+DynamicCharacter_388,The Lion King,Protagonist,27,103,18
+DynamicCharacter_389,Frozen,Antagonist,71,61,8
+DynamicCharacter_390,Star Wars,Protagonist,90,85,25
+DynamicCharacter_391,Moana,Protagonist,4,49,12
+DynamicCharacter_392,Moana,Antagonist,59,110,28
+DynamicCharacter_393,The Lion King,Antagonist,52,119,16
+DynamicCharacter_394,Beauty and the Beast,Antagonist,85,15,27
+DynamicCharacter_395,Frozen,Mentor,71,85,18
+DynamicCharacter_396,Moana,Comic Relief,10,103,6
+DynamicCharacter_397,Beauty and the Beast,Antagonist,13,81,19
+DynamicCharacter_398,Frozen,Mentor,42,34,27
+DynamicCharacter_399,Moana,Supporting,60,34,22
+DynamicCharacter_400,Moana,Comic Relief,26,40,16
+DynamicCharacter_401,Moana,Mentor,15,44,28
+DynamicCharacter_402,Beauty and the Beast,Protagonist,2,71,16
+DynamicCharacter_403,Beauty and the Beast,Supporting,63,114,6
+DynamicCharacter_404,The Lion King,Supporting,44,53,7
+DynamicCharacter_405,Frozen,Mentor,85,55,19
+DynamicCharacter_406,Star Wars,Antagonist,28,87,19
+DynamicCharacter_407,Moana,Comic Relief,95,105,22
+DynamicCharacter_408,The Lion King,Protagonist,34,86,8
+DynamicCharacter_409,Beauty and the Beast,Antagonist,28,36,24
+DynamicCharacter_410,The Lion King,Supporting,20,27,27
+DynamicCharacter_411,The Lion King,Antagonist,50,93,6
+DynamicCharacter_412,Moana,Supporting,63,92,22
+DynamicCharacter_413,Frozen,Comic Relief,88,33,7
+DynamicCharacter_414,Star Wars,Antagonist,34,28,15
+DynamicCharacter_415,Frozen,Protagonist,16,18,5
+DynamicCharacter_416,Star Wars,Protagonist,2,16,20
+DynamicCharacter_417,Frozen,Mentor,58,95,7
+DynamicCharacter_418,Frozen,Mentor,9,14,19
+DynamicCharacter_419,Moana,Antagonist,62,62,23
+DynamicCharacter_420,The Lion King,Supporting,68,110,30
+DynamicCharacter_421,Star Wars,Mentor,16,43,9
+DynamicCharacter_422,Moana,Supporting,9,28,28
+DynamicCharacter_423,Star Wars,Supporting,66,96,16
+DynamicCharacter_424,Moana,Mentor,23,37,7
+DynamicCharacter_425,The Lion King,Mentor,45,86,14
+DynamicCharacter_426,Star Wars,Protagonist,17,67,9
+DynamicCharacter_427,Star Wars,Supporting,34,59,29
+DynamicCharacter_428,Moana,Mentor,10,18,21
+DynamicCharacter_429,The Lion King,Antagonist,100,33,9
+DynamicCharacter_430,Moana,Antagonist,42,109,20
+DynamicCharacter_431,The Lion King,Antagonist,23,77,13
+DynamicCharacter_432,The Lion King,Antagonist,30,53,20
+DynamicCharacter_433,The Lion King,Antagonist,39,92,23
+DynamicCharacter_434,Star Wars,Protagonist,44,76,17
+DynamicCharacter_435,Frozen,Protagonist,95,15,10
+DynamicCharacter_436,The Lion King,Supporting,82,13,17
+DynamicCharacter_437,Moana,Supporting,95,110,16
+DynamicCharacter_438,Moana,Comic Relief,3,80,26
+DynamicCharacter_439,Frozen,Comic Relief,26,64,29
+DynamicCharacter_440,Moana,Protagonist,29,65,21
+DynamicCharacter_441,Moana,Protagonist,56,82,23
+DynamicCharacter_442,Moana,Supporting,27,46,24
+DynamicCharacter_443,Moana,Antagonist,5,59,19
+DynamicCharacter_444,Star Wars,Antagonist,78,76,19
+DynamicCharacter_445,The Lion King,Antagonist,71,24,26
+DynamicCharacter_446,Beauty and the Beast,Mentor,82,103,14
+DynamicCharacter_447,Moana,Comic Relief,14,111,7
+DynamicCharacter_448,The Lion King,Supporting,94,17,27
+DynamicCharacter_449,The Lion King,Antagonist,99,83,9
+DynamicCharacter_450,The Lion King,Mentor,40,66,29
+DynamicCharacter_451,Frozen,Supporting,86,95,13
+DynamicCharacter_452,Frozen,Comic Relief,1,67,18
+DynamicCharacter_453,The Lion King,Supporting,95,63,16
+DynamicCharacter_454,The Lion King,Mentor,47,95,16
+DynamicCharacter_455,Beauty and the Beast,Mentor,50,17,27
+DynamicCharacter_456,Star Wars,Protagonist,75,62,26
+DynamicCharacter_457,Star Wars,Protagonist,75,119,20
+DynamicCharacter_458,Star Wars,Protagonist,12,60,16
+DynamicCharacter_459,Moana,Antagonist,53,44,29
+DynamicCharacter_460,Moana,Antagonist,4,10,20
+DynamicCharacter_461,Star Wars,Mentor,18,119,17
+DynamicCharacter_462,Moana,Mentor,53,42,12
+DynamicCharacter_463,Beauty and the Beast,Protagonist,65,20,27
+DynamicCharacter_464,Beauty and the Beast,Mentor,53,36,13
+DynamicCharacter_465,Beauty and the Beast,Supporting,32,63,26
+DynamicCharacter_466,Star Wars,Supporting,68,65,5
+DynamicCharacter_467,Moana,Supporting,84,18,10
+DynamicCharacter_468,The Lion King,Protagonist,39,61,6
+DynamicCharacter_469,The Lion King,Protagonist,52,48,12
+DynamicCharacter_470,Star Wars,Protagonist,16,67,24
+DynamicCharacter_471,The Lion King,Supporting,53,42,10
+DynamicCharacter_472,The Lion King,Comic Relief,94,106,27
+DynamicCharacter_473,The Lion King,Protagonist,1,94,27
+DynamicCharacter_474,The Lion King,Antagonist,84,55,26
+DynamicCharacter_475,Beauty and the Beast,Mentor,6,62,15
+DynamicCharacter_476,Star Wars,Protagonist,43,11,8

@@ -1,0 +1,101 @@
+Character Name,Movie Title,Role,Viewer Sentiment,Screen Time (Minutes),Scene Appearances
+Luke Skywalker,Star Wars,Protagonist,90,68,30
+Darth Vader,Star Wars,Antagonist,85,105,16
+Leia Organa,Star Wars,Supporting,88,40,10
+Han Solo,Star Wars,Protagonist,92,70,30
+Yoda,Star Wars,Mentor,95,102,5
+Obi-Wan Kenobi,Star Wars,Mentor,93,102,27
+Palpatine,Star Wars,Antagonist,60,107,11
+Chewbacca,Star Wars,Supporting,89,36,30
+R2-D2,Star Wars,Comic Relief,90,16,23
+C-3PO,Star Wars,Comic Relief,80,105,22
+Kylo Ren,Star Wars,Antagonist,70,105,12
+Rey,Star Wars,Protagonist,85,73,20
+Tony Stark,Iron Man,Protagonist,95,71,14
+Steve Rogers,Captain America,Protagonist,94,65,28
+Thor,Thor,Protagonist,90,27,10
+Loki,Thor,Antagonist,87,56,5
+Natasha Romanoff,Black Widow,Supporting,88,19,14
+Bruce Banner,The Hulk,Protagonist,85,74,12
+Thanos,Avengers,Antagonist,75,58,18
+Bruce Wayne,Batman,Protagonist,93,66,11
+Clark Kent,Superman,Protagonist,91,24,23
+Diana Prince,Wonder Woman,Protagonist,94,97,5
+Joker,The Dark Knight,Antagonist,85,73,6
+Harley Quinn,Suicide Squad,Supporting,80,79,7
+Lex Luthor,Superman,Antagonist,70,10,21
+Frodo Baggins,The Lord of the Rings,Protagonist,88,67,17
+Samwise Gamgee,The Lord of the Rings,Supporting,92,87,21
+Gandalf,The Lord of the Rings,Mentor,95,74,25
+Aragorn,The Lord of the Rings,Protagonist,93,39,24
+Gollum,The Lord of the Rings,Antagonist,70,82,13
+Sauron,The Lord of the Rings,Antagonist,60,32,29
+Harry Potter,Harry Potter,Protagonist,93,114,19
+Hermione Granger,Harry Potter,Supporting,94,69,23
+Ron Weasley,Harry Potter,Supporting,88,70,9
+Albus Dumbledore,Harry Potter,Mentor,92,90,21
+Lord Voldemort,Harry Potter,Antagonist,75,28,15
+Severus Snape,Harry Potter,Supporting,85,79,16
+DynamicCharacter_1,Fantasy Epic,Mentor,88,23,8
+DynamicCharacter_2,Drama Thriller,Supporting,71,45,15
+DynamicCharacter_3,Superhero Saga,Mentor,53,104,14
+DynamicCharacter_4,Superhero Saga,Protagonist,50,107,25
+DynamicCharacter_5,Drama Thriller,Protagonist,80,120,20
+DynamicCharacter_6,Animated Classic,Antagonist,45,11,15
+DynamicCharacter_7,Sci-Fi Adventure,Protagonist,83,19,10
+DynamicCharacter_8,Fantasy Epic,Comic Relief,55,107,25
+DynamicCharacter_9,Drama Thriller,Protagonist,83,78,21
+DynamicCharacter_10,Fantasy Epic,Comic Relief,50,76,26
+DynamicCharacter_11,Sci-Fi Adventure,Antagonist,70,58,13
+DynamicCharacter_12,Superhero Saga,Protagonist,73,56,7
+DynamicCharacter_13,Fantasy Epic,Mentor,69,55,26
+DynamicCharacter_14,Sci-Fi Adventure,Comic Relief,57,29,15
+DynamicCharacter_15,Sci-Fi Adventure,Mentor,59,29,21
+DynamicCharacter_16,Drama Thriller,Comic Relief,87,120,28
+DynamicCharacter_17,Sci-Fi Adventure,Mentor,74,100,29
+DynamicCharacter_18,Drama Thriller,Mentor,80,15,15
+DynamicCharacter_19,Fantasy Epic,Mentor,58,21,27
+DynamicCharacter_20,Animated Classic,Mentor,71,45,24
+DynamicCharacter_21,Drama Thriller,Supporting,55,115,7
+DynamicCharacter_22,Superhero Saga,Protagonist,52,46,12
+DynamicCharacter_23,Sci-Fi Adventure,Supporting,74,106,8
+DynamicCharacter_24,Sci-Fi Adventure,Comic Relief,53,19,7
+DynamicCharacter_25,Animated Classic,Mentor,73,78,14
+DynamicCharacter_26,Sci-Fi Adventure,Protagonist,63,13,6
+DynamicCharacter_27,Superhero Saga,Supporting,74,62,6
+DynamicCharacter_28,Sci-Fi Adventure,Supporting,54,52,13
+DynamicCharacter_29,Animated Classic,Mentor,74,69,12
+DynamicCharacter_30,Sci-Fi Adventure,Mentor,52,86,8
+DynamicCharacter_31,Sci-Fi Adventure,Supporting,64,17,20
+DynamicCharacter_32,Fantasy Epic,Protagonist,90,57,16
+DynamicCharacter_33,Drama Thriller,Mentor,51,32,15
+DynamicCharacter_34,Superhero Saga,Antagonist,52,48,17
+DynamicCharacter_35,Animated Classic,Protagonist,83,31,16
+DynamicCharacter_36,Sci-Fi Adventure,Protagonist,90,12,7
+DynamicCharacter_37,Drama Thriller,Mentor,59,12,26
+DynamicCharacter_38,Sci-Fi Adventure,Comic Relief,55,79,6
+DynamicCharacter_39,Drama Thriller,Supporting,53,87,24
+DynamicCharacter_40,Sci-Fi Adventure,Supporting,67,40,15
+DynamicCharacter_41,Animated Classic,Protagonist,54,18,17
+DynamicCharacter_42,Fantasy Epic,Comic Relief,61,85,22
+DynamicCharacter_43,Drama Thriller,Comic Relief,60,61,17
+DynamicCharacter_44,Drama Thriller,Supporting,52,13,20
+DynamicCharacter_45,Fantasy Epic,Antagonist,53,24,9
+DynamicCharacter_46,Sci-Fi Adventure,Protagonist,58,34,20
+DynamicCharacter_47,Animated Classic,Supporting,54,94,26
+DynamicCharacter_48,Sci-Fi Adventure,Comic Relief,82,71,30
+DynamicCharacter_49,Animated Classic,Protagonist,80,72,11
+DynamicCharacter_50,Superhero Saga,Mentor,73,53,15
+DynamicCharacter_51,Sci-Fi Adventure,Mentor,80,109,13
+DynamicCharacter_52,Animated Classic,Protagonist,78,15,12
+DynamicCharacter_53,Sci-Fi Adventure,Antagonist,53,63,5
+DynamicCharacter_54,Drama Thriller,Antagonist,65,97,13
+DynamicCharacter_55,Superhero Saga,Mentor,58,48,20
+DynamicCharacter_56,Animated Classic,Protagonist,78,66,10
+DynamicCharacter_57,Drama Thriller,Antagonist,63,14,30
+DynamicCharacter_58,Animated Classic,Antagonist,70,99,6
+DynamicCharacter_59,Animated Classic,Comic Relief,86,65,29
+DynamicCharacter_60,Drama Thriller,Supporting,85,85,20
+DynamicCharacter_61,Sci-Fi Adventure,Protagonist,63,48,20
+DynamicCharacter_62,Drama Thriller,Comic Relief,51,60,9
+DynamicCharacter_63,Sci-Fi Adventure,Antagonist,53,68,26

@@ -1,0 +1,50 @@
+Character Name,Viewer Sentiment,Screen Time (Minutes),Scene Appearances,Movie Title
+Simba,Positive,80,20,The Lion King
+Scar,Negative,50,15,The Lion King
+Mufasa,Positive,40,10,The Lion King
+Timon,Positive,30,8,The Lion King
+Pumbaa,Positive,35,8,The Lion King
+Ariel,Positive,75,18,The Little Mermaid
+Ursula,Negative,45,12,The Little Mermaid
+Belle,Positive,60,15,Beauty and the Beast
+Beast,Positive,70,20,Beauty and the Beast
+Aladdin,Positive,90,25,Aladdin
+Jafar,Negative,50,10,Aladdin
+Elsa,Positive,85,22,Frozen
+Anna,Positive,80,18,Frozen
+Olaf,Positive,30,12,Frozen
+Kristoff,Positive,45,10,Frozen
+Sven,Positive,15,5,Frozen
+Rapunzel,Positive,80,25,Tangled
+Flynn,Positive,40,20,Tangled
+Mother Gothel,Negative,25,8,Tangled
+Moana,Positive,75,22,Moana
+Maui,Positive,60,18,Moana
+Tamatoa,Negative,20,10,Moana
+Tiana,Positive,70,25,The Princess and the Frog
+Naveen,Positive,50,15,The Princess and the Frog
+Dr. Facilier,Negative,40,12,The Princess and the Frog
+Cinderella,Positive,65,18,Cinderella
+Prince Charming,Positive,30,8,Cinderella
+Lady Tremaine,Negative,20,5,Cinderella
+Aurora,Positive,55,20,Sleeping Beauty
+Maleficent,Negative,60,22,Sleeping Beauty
+Hercules,Positive,75,25,Hercules
+Megara,Positive,50,15,Hercules
+Hades,Negative,40,10,Hercules
+Tarzan,Positive,90,25,Tarzan
+Jane,Positive,60,20,Tarzan
+Kala,Positive,50,10,Tarzan
+Kerchak,Positive,40,8,Tarzan
+Mulan,Positive,70,22,Mulan
+Shang,Positive,45,18,Mulan
+Mushu,Positive,30,12,Mulan
+Pocahontas,Positive,80,25,Pocahontas
+John Smith,Positive,60,15,Pocahontas
+Ratcliffe,Negative,40,10,Pocahontas
+Merida,Positive,90,25,Brave
+Fergus,Positive,50,15,Brave
+Elinor,Positive,40,10,Brave
+Lotso,Negative,50,12,Toy Story
+Woody,Positive,85,22,Toy Story
+Buzz Lightyear,Positive,90,25,Toy Story

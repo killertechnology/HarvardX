@@ -1,0 +1,101 @@
+Character Name,Movie Title,Role,Sentiment Score
+Luke Skywalker,Star Wars,Protagonist,9
+Darth Vader,Star Wars,Antagonist,8
+Leia Organa,Star Wars,Supportive,9
+Han Solo,Star Wars,Protagonist,9
+Yoda,Star Wars,Mentor,10
+Obi-Wan Kenobi,Star Wars,Mentor,9
+Palpatine,Star Wars,Antagonist,7
+Chewbacca,Star Wars,Supportive,8
+R2-D2,Star Wars,Comic Relief,9
+C-3PO,Star Wars,Comic Relief,8
+Kylo Ren,Star Wars,Antagonist,7
+Rey,Star Wars,Protagonist,8
+Tony Stark,Iron Man,Protagonist,10
+Steve Rogers,Captain America,Protagonist,9
+Thor,Thor,Protagonist,8
+Loki,Thor,Antagonist,8
+Natasha Romanoff,Black Widow,Supportive,8
+Bruce Banner,The Hulk,Protagonist,8
+Thanos,Avengers,Antagonist,7
+Bruce Wayne,Batman,Protagonist,10
+Clark Kent,Superman,Protagonist,9
+Diana Prince,Wonder Woman,Protagonist,10
+Joker,The Dark Knight,Antagonist,8
+Harley Quinn,Suicide Squad,Neutral,8
+Lex Luthor,Superman,Antagonist,7
+Frodo Baggins,The Lord of the Rings,Protagonist,9
+Samwise Gamgee,The Lord of the Rings,Supportive,10
+Gandalf,The Lord of the Rings,Mentor,10
+Aragorn,The Lord of the Rings,Protagonist,9
+Gollum,The Lord of the Rings,Antagonist,7
+Sauron,The Lord of the Rings,Antagonist,6
+Harry Potter,Harry Potter,Protagonist,9
+Hermione Granger,Harry Potter,Supportive,10
+Ron Weasley,Harry Potter,Supportive,8
+Albus Dumbledore,Harry Potter,Mentor,9
+Lord Voldemort,Harry Potter,Antagonist,7
+Severus Snape,Harry Potter,Neutral,8
+Shrek,Shrek,Protagonist,9
+Donkey,Shrek,Comic Relief,9
+Fiona,Shrek,Supportive,8
+Puss in Boots,Shrek 2,Comic Relief,8
+Simba,The Lion King,Protagonist,9
+Scar,The Lion King,Antagonist,6
+Mufasa,The Lion King,Mentor,10
+Timon,The Lion King,Comic Relief,8
+Pumbaa,The Lion King,Comic Relief,8
+Elsa,Frozen,Protagonist,9
+Anna,Frozen,Supportive,9
+Olaf,Frozen,Comic Relief,8
+Kristoff,Frozen,Supportive,8
+Moana,Moana,Protagonist,9
+Maui,Moana,Supportive,8
+Tamatoa,Moana,Antagonist,6
+Ariel,The Little Mermaid,Protagonist,8
+Ursula,The Little Mermaid,Antagonist,6
+Belle,Beauty and the Beast,Protagonist,9
+Beast,Beauty and the Beast,Protagonist,8
+Gaston,Beauty and the Beast,Antagonist,6
+Rapunzel,Tangled,Protagonist,9
+Flynn Rider,Tangled,Protagonist,8
+Mother Gothel,Tangled,Antagonist,6
+Merida,Brave,Protagonist,9
+Fergus,Brave,Supportive,8
+Elinor,Brave,Mentor,8
+Buzz Lightyear,Toy Story,Protagonist,9
+Woody,Toy Story,Protagonist,9
+Lotso,Toy Story 3,Antagonist,6
+Mike Wazowski,"Monsters, Inc.",Comic Relief,9
+Sulley,"Monsters, Inc.",Protagonist,8
+Randall Boggs,"Monsters, Inc.",Antagonist,6
+WALL-E,WALL-E,Protagonist,10
+EVE,WALL-E,Supportive,8
+Lightning McQueen,Cars,Protagonist,8
+Mater,Cars,Comic Relief,9
+Cruz Ramirez,Cars 3,Supportive,8
+Carl Fredricksen,Up,Protagonist,9
+Russell,Up,Supportive,8
+Dug,Up,Comic Relief,8
+Joy,Inside Out,Protagonist,9
+Sadness,Inside Out,Supportive,8
+Anger,Inside Out,Comic Relief,7
+Fear,Inside Out,Comic Relief,7
+Disgust,Inside Out,Comic Relief,7
+Miguel,Coco,Protagonist,9
+Héctor,Coco,Supportive,8
+Ernesto de la Cruz,Coco,Antagonist,6
+Remy,Ratatouille,Protagonist,9
+Linguini,Ratatouille,Supportive,8
+Anton Ego,Ratatouille,Neutral,8
+Dash Parr,The Incredibles,Supportive,9
+Elastigirl,The Incredibles,Protagonist,9
+Mr. Incredible,The Incredibles,Protagonist,9
+Violet Parr,The Incredibles,Supportive,8
+Edna Mode,The Incredibles,Comic Relief,9
+Syndrome,The Incredibles,Antagonist,6
+Marlin,Finding Nemo,Protagonist,9
+Dory,Finding Nemo,Comic Relief,9
+Nemo,Finding Nemo,Supportive,9
+Bruce,Finding Nemo,Antagonist,6
+Crush,Finding Nemo,Comic Relief,8
